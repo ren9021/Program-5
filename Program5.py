@@ -6,16 +6,7 @@
 #
 #  File Name:         Program5.py
 #
-#  Course:            COSC 1336 Programming Fundamentals I 
-#
-#  Due Date:          09-29-19
-#
-#  Instructor:        Fred Kumi 
-#
-#  Chapter:           Chapter #s 1-3
-#
-#  Description:
-#     This program is used to determine discounts on software packages.
+#  Description:       This program is used to determine discounts on software packages
 #
 #***************************************************************
 
@@ -132,7 +123,6 @@ def main():
 #**************************************************************
 def developerInfo():
     print('Name:     Renee White')
-    print('Course:   Programming Fundamentals I')
     print('Program:  Five')
     print()
     # End of the developerInfo function
